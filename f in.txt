@@ -1,0 +1,19 @@
+no random colors are allowed in dashboard(certain colors must be used)
+blue-professionalism
+orange-trust
+Colorhunt.co -> website that shows color palate
+graphs as well as the text -> color applies
+dark shade for graphs light for text 
+attract the 
+
+nominal-distinct shades
+ordinal-gradients
+quantitative-variations in color intensity
+
+cohesive and visually appealing dashboard
+
+Alignment tools
+adjust multiple visuals in one go
+use icons and buttons
+keep it simple[less charts]
+text functionalities and interactions
